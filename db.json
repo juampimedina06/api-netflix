@@ -1,6 +1,5 @@
 {
   "peliculas": {
-    "fecha": "2025-02-08",
     "items": [
       {
         "id": 1,
@@ -22,11 +21,59 @@
         "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
         "año": 2008
+      },
+      {
+        "id": 4,
+        "titulo": "Avatar",
+        "imagen": "https://image.tmdb.org/t/p/w500/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+        "año": 2009
+      },
+      {
+        "id": 5,
+        "titulo": "Titanic",
+        "imagen": "https://image.tmdb.org/t/p/w500/kHXEpyfl6zqn8a6YuozZUujufXf.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+        "año": 1997
+      },
+      {
+        "id": 6,
+        "titulo": "The Matrix",
+        "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+        "año": 1999
+      },
+      {
+        "id": 7,
+        "titulo": "The Godfather",
+        "imagen": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+        "año": 1972
+      },
+      {
+        "id": 8,
+        "titulo": "The Shawshank Redemption",
+        "imagen": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+        "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+        "año": 1994
+      },
+      {
+        "id": 9,
+        "titulo": "Pulp Fiction",
+        "imagen": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+        "año": 1994
+      },
+      {
+        "id": 10,
+        "titulo": "Fight Club",
+        "imagen": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+        "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M",
+        "año": 1999
       }
     ]
   },
   "series": {
-    "fecha": "2025-02-08",
     "items": [
       {
         "id": 1,
@@ -48,6 +95,20 @@
         "imagen": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
         "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
         "año": 2011
+      },
+      {
+        "id": 4,
+        "titulo": "The Witcher",
+        "imagen": "https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+        "año": 2019
+      },
+      {
+        "id": 5,
+        "titulo": "The Mandalorian",
+        "imagen": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+        "trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw",
+        "año": 2019
       }
     ]
   }

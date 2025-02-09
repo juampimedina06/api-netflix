@@ -1,0 +1,54 @@
+{
+  "peliculas": {
+    "fecha": "2025-02-08",
+    "items": [
+      {
+        "id": 1,
+        "titulo": "Inception",
+        "imagen": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+        "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+        "año": 2010
+      },
+      {
+        "id": 2,
+        "titulo": "Interstellar",
+        "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+        "año": 2014
+      },
+      {
+        "id": 3,
+        "titulo": "The Dark Knight",
+        "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+        "año": 2008
+      }
+    ]
+  },
+  "series": {
+    "fecha": "2025-02-08",
+    "items": [
+      {
+        "id": 1,
+        "titulo": "Breaking Bad",
+        "imagen": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+        "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+        "año": 2008
+      },
+      {
+        "id": 2,
+        "titulo": "Stranger Things",
+        "imagen": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+        "año": 2016
+      },
+      {
+        "id": 3,
+        "titulo": "Game of Thrones",
+        "imagen": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+        "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+        "año": 2011
+      }
+    ]
+  }
+}

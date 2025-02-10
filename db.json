@@ -5,7 +5,7 @@
         {
           "id": 1,
           "titulo": "Inception",
-          "imagen": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+          "imagen": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
           "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
           "año": 2010
         },
@@ -26,14 +26,14 @@
         {
           "id": 4,
           "titulo": "Avatar",
-          "imagen": "https://image.tmdb.org/t/p/w500/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg",
+          "imagen": "https://lumiere-a.akamaihd.net/v1/images/poster-avatar-2-lat_46034440_1_c359a2d2.png",
           "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
           "año": 2009
         },
         {
           "id": 5,
           "titulo": "Titanic",
-          "imagen": "https://image.tmdb.org/t/p/w500/kHXEpyfl6zqn8a6YuozZUujufXf.jpg",
+          "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/38/80/388070a3daeeaabe00a8831977985127.jpg",
           "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
           "año": 1997
         },
@@ -79,73 +79,74 @@
         {
           "id": 1,
           "titulo": "Breaking Bad",
-          "imagen": "https://image.tmdb.org/t/p/w500/bc0q7xu84eC9Svh9XlNj7nAkakd.jpg",
+          "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/07/breaking-bad-cover.jpg?tf=1200x",
           "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
           "año": 2008
         },
         {
           "id": 2,
           "titulo": "Stranger Things",
-          "imagen": "https://image.tmdb.org/t/p/w500/v1zZFJIF5o0M0D6w1Lr3lxpnVCd.jpg",
+          "imagen": "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg",
           "trailer": "https://www.youtube.com/watch?v=XWxyRG_tckY",
           "año": 2016
         },
         {
           "id": 3,
           "titulo": "The Witcher",
-          "imagen": "https://image.tmdb.org/t/p/w500/7A89ntd0V0ccqHgVfS6O0r42VtD.jpg",
+          "imagen": "https://i.3djuegos.com/juegos/17680/the_witcher__la_serie__temporada_2/fotos/ficha/the_witcher__la_serie__temporada_2-5550842.webp",
           "trailer": "https://www.youtube.com/watch?v=cSqiFMO9oa8",
           "año": 2019
         },
         {
           "id": 4,
           "titulo": "Game of Thrones",
-          "imagen": "https://image.tmdb.org/t/p/w500/bfPbRHEMNH1QXeXXjpdzjBf2tTR.jpg",
+          "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/00/31/00312102459456753b384e88a2b8fadb.jpg",
           "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
           "año": 2011
         },
         {
           "id": 5,
           "titulo": "The Mandalorian",
-          "imagen": "https://image.tmdb.org/t/p/w500/oxOZRzX2fT2t0WaBSvYcTtVuXKs.jpg",
+          "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/c7/e8/c7e81c4988deaa1fc0120bb0760ec550.jpg",
           "trailer": "https://www.youtube.com/watch?v=aKuFV6_1ctk",
           "año": 2019
         },
         {
           "id": 6,
           "titulo": "The Crown",
-          "imagen": "https://image.tmdb.org/t/p/w500/9nxPZXNkOhjRjOSkk91DKtchkmP.jpg",
+          "imagen": "https://i0.wp.com/www.septimacaja.com/wp-content/uploads/The-Crown-poster.jpg?fit=800%2C1176&ssl=1",
           "trailer": "https://www.youtube.com/watch?v=J9wFgkh57-I",
           "año": 2016
         },
         {
           "id": 7,
           "titulo": "Dark",
-          "imagen": "https://image.tmdb.org/t/p/w500/g6c4UBh4D2GECr2A9a9uxbqM7yZ.jpg",
+          "imagen": "https://www.revistafactum.com/wp-content/uploads/2019/06/Dark-portada.jpg",
           "trailer": "https://www.youtube.com/watch?v=jjpp85enDAA",
           "año": 2017
         },
         {
           "id": 8,
           "titulo": "Black Mirror",
-          "imagen": "https://image.tmdb.org/t/p/w500/2m6MlzJtcSYlxtbZD3QQmD7aMCG.jpg",
+          "imagen": "https://m.media-amazon.com/images/M/MV5BMGRjZDBjODMtMWQ1Zi00MWRkLTk5YTMtMDU1NTNkMzhkM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
           "trailer": "https://www.youtube.com/watch?v=4Y5TgVvQwb8",
           "año": 2011
         },
         {
           "id": 9,
           "titulo": "Narcos",
-          "imagen": "https://image.tmdb.org/t/p/w500/py5ea4IQjWh1MFmEo99axhHYfFq.jpg",
+          "imagen": "https://media.telemetro.com/p/e3c98cc134c88b4cdca43a2c786947b0/adjuntos/311/imagenes/002/146/0002146284/narcos-llegara-los-75-millones-clientes-ae-latinoamerica.jpg",
           "trailer": "https://www.youtube.com/watch?v=9S3ZLpdH-dM",
           "año": 2015
         },
         {
           "id": 10,
           "titulo": "Mindhunter",
-          "imagen": "https://image.tmdb.org/t/p/w500/5YVxjPh83yJ3lfXZzCU9ErD96VX.jpg",
+          "imagen": "https://http2.mlstatic.com/D_NQ_NP_797677-MLM53925781047_022023-O.webp",
           "trailer": "https://www.youtube.com/watch?v=XYvX9vlY6As",
           "año": 2017
         }
+        
       ]
     }
   }

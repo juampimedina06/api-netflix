@@ -1,145 +1,155 @@
 {
-  "videos": {
-    "peliculas": {
-      "items": [
-        {
-          "id": 1,
-          "titulo": "Inception",
-          "imagen": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
-          "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
-          "año": 2010
-        },
-        {
-          "id": 2,
-          "titulo": "Interstellar",
-          "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-          "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-          "año": 2014
-        },
-        {
-          "id": 3,
-          "titulo": "The Dark Knight",
-          "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-          "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
-          "año": 2008
-        },
-        {
-          "id": 4,
-          "titulo": "Avatar",
-          "imagen": "https://lumiere-a.akamaihd.net/v1/images/poster-avatar-2-lat_46034440_1_c359a2d2.png",
-          "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
-          "año": 2009
-        },
-        {
-          "id": 5,
-          "titulo": "Titanic",
-          "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/38/80/388070a3daeeaabe00a8831977985127.jpg",
-          "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
-          "año": 1997
-        },
-        {
-          "id": 6,
-          "titulo": "The Matrix",
-          "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-          "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
-          "año": 1999
-        },
-        {
-          "id": 7,
-          "titulo": "The Godfather",
-          "imagen": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-          "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
-          "año": 1972
-        },
-        {
-          "id": 8,
-          "titulo": "The Shawshank Redemption",
-          "imagen": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-          "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
-          "año": 1994
-        },
-        {
-          "id": 9,
-          "titulo": "Pulp Fiction",
-          "imagen": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-          "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
-          "año": 1994
-        },
-        {
-          "id": 10,
-          "titulo": "Fight Club",
-          "imagen": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
-          "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M",
-          "año": 1999
-        }
-      ]
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Inception",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "año": 2010,
+      "categoria": "pelicula"
     },
-    "series": {
-      "items": [
-        {
-          "id": 1,
-          "titulo": "Breaking Bad",
-          "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/07/breaking-bad-cover.jpg?tf=1200x",
-          "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
-          "año": 2008
-        },
-        {
-          "id": 2,
-          "titulo": "Stranger Things",
-          "imagen": "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg",
-          "trailer": "https://www.youtube.com/watch?v=XWxyRG_tckY",
-          "año": 2016
-        },
-        {
-          "id": 3,
-          "titulo": "The Witcher",
-          "imagen": "https://i.3djuegos.com/juegos/17680/the_witcher__la_serie__temporada_2/fotos/ficha/the_witcher__la_serie__temporada_2-5550842.webp",
-          "trailer": "https://www.youtube.com/watch?v=cSqiFMO9oa8",
-          "año": 2019
-        },
-        {
-          "id": 4,
-          "titulo": "Game of Thrones",
-          "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/00/31/00312102459456753b384e88a2b8fadb.jpg",
-          "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
-          "año": 2011
-        },
-        {
-          "id": 5,
-          "titulo": "The Mandalorian",
-          "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/c7/e8/c7e81c4988deaa1fc0120bb0760ec550.jpg",
-          "trailer": "https://www.youtube.com/watch?v=aKuFV6_1ctk",
-          "año": 2019
-        },
-        {
-          "id": 6,
-          "titulo": "The Crown",
-          "imagen": "https://i0.wp.com/www.septimacaja.com/wp-content/uploads/The-Crown-poster.jpg?fit=800%2C1176&ssl=1",
-          "trailer": "https://www.youtube.com/watch?v=J9wFgkh57-I",
-          "año": 2016
-        },
-        {
-          "id": 8,
-          "titulo": "Black Mirror",
-          "imagen": "https://m.media-amazon.com/images/M/MV5BMGRjZDBjODMtMWQ1Zi00MWRkLTk5YTMtMDU1NTNkMzhkM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-          "trailer": "https://www.youtube.com/watch?v=4Y5TgVvQwb8",
-          "año": 2011
-        },
-        {
-          "id": 9,
-          "titulo": "Narcos",
-          "imagen": "https://http2.mlstatic.com/D_NQ_NP_956545-MLU74080207592_012024-O.webp",
-          "año": 2015
-        },
-        {
-          "id": 10,
-          "titulo": "Mindhunter",
-          "imagen": "https://http2.mlstatic.com/D_NQ_NP_797677-MLM53925781047_022023-O.webp",
-          "trailer": "https://www.youtube.com/watch?v=XYvX9vlY6As",
-          "año": 2017
-        }
-        
-      ]
+    {
+      "id": 2,
+      "titulo": "Interstellar",
+      "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+      "año": 2014,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 3,
+      "titulo": "The Dark Knight",
+      "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "año": 2008,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 4,
+      "titulo": "Avatar",
+      "imagen": "https://lumiere-a.akamaihd.net/v1/images/poster-avatar-2-lat_46034440_1_c359a2d2.png",
+      "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+      "año": 2009,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 5,
+      "titulo": "Titanic",
+      "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/38/80/388070a3daeeaabe00a8831977985127.jpg",
+      "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+      "año": 1997,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 6,
+      "titulo": "The Matrix",
+      "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+      "año": 1999,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 7,
+      "titulo": "The Godfather",
+      "imagen": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+      "año": 1972,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 8,
+      "titulo": "The Shawshank Redemption",
+      "imagen": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+      "año": 1994,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 9,
+      "titulo": "Pulp Fiction",
+      "imagen": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+      "año": 1994,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 10,
+      "titulo": "Fight Club",
+      "imagen": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+      "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M",
+      "año": 1999,
+      "categoria": "pelicula"
+    },
+    {
+      "id": 11,
+      "titulo": "Breaking Bad",
+      "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/07/breaking-bad-cover.jpg?tf=1200x",
+      "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+      "año": 2008,
+      "categoria": "serie"
+    },
+    {
+      "id": 12,
+      "titulo": "Stranger Things",
+      "imagen": "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XWxyRG_tckY",
+      "año": 2016,
+      "categoria": "serie"
+    },
+    {
+      "id": 13,
+      "titulo": "The Witcher",
+      "imagen": "https://i.3djuegos.com/juegos/17680/the_witcher__la_serie__temporada_2/fotos/ficha/the_witcher__la_serie__temporada_2-5550842.webp",
+      "trailer": "https://www.youtube.com/watch?v=cSqiFMO9oa8",
+      "año": 2019,
+      "categoria": "serie"
+    },
+    {
+      "id": 14,
+      "titulo": "Game of Thrones",
+      "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/00/31/00312102459456753b384e88a2b8fadb.jpg",
+      "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+      "año": 2011,
+      "categoria": "serie"
+    },
+    {
+      "id": 15,
+      "titulo": "The Mandalorian",
+      "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/c7/e8/c7e81c4988deaa1fc0120bb0760ec550.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aKuFV6_1ctk",
+      "año": 2019,
+      "categoria": "serie"
+    },
+    {
+      "id": 16,
+      "titulo": "The Crown",
+      "imagen": "https://i0.wp.com/www.septimacaja.com/wp-content/uploads/The-Crown-poster.jpg?fit=800%2C1176&ssl=1",
+      "trailer": "https://www.youtube.com/watch?v=J9wFgkh57-I",
+      "año": 2016,
+      "categoria": "serie"
+    },
+    {
+      "id": 17,
+      "titulo": "Black Mirror",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMGRjZDBjODMtMWQ1Zi00MWRkLTk5YTMtMDU1NTNkMzhkM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=4Y5TgVvQwb8",
+      "año": 2011,
+      "categoria": "serie"
+    },
+    {
+      "id": 18,
+      "titulo": "Narcos",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_956545-MLU74080207592_012024-O.webp",
+      "año": 2015,
+      "categoria": "serie"
+    },
+    {
+      "id": 19,
+      "titulo": "Mindhunter",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_797677-MLM53925781047_022023-O.webp",
+      "trailer": "https://www.youtube.com/watch?v=XYvX9vlY6As",
+      "año": 2017,
+      "categoria": "serie"
     }
-  }
+  ]
 }

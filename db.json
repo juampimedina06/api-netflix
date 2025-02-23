@@ -6,7 +6,8 @@
       "imagen": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
       "año": 2010,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion": "Un thriller de ciencia ficción dirigido por Christopher Nolan, que explora los sueños y la mente humana."
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
       "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
       "año": 2014,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Otra obra maestra de Nolan, un épico viaje interestelar que combina ciencia, emoción y espectaculares efectos visuales."
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
       "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
       "año": 2008,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"La segunda entrega de la trilogía de Batman de Nolan, con una actuación icónica de Heath Ledger como el Joker."
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "imagen": "https://lumiere-a.akamaihd.net/v1/images/poster-avatar-2-lat_46034440_1_c359a2d2.png",
       "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
       "año": 2009,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Una película revolucionaria de ciencia ficción de James Cameron, que lleva a los espectadores a un mundo alienígena asombroso."
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/38/80/388070a3daeeaabe00a8831977985127.jpg",
       "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
       "año": 1997,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Un clásico romántico y épico de James Cameron, que narra la trágica historia del hundimiento del Titanic."
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
       "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
       "año": 1999,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Una película de ciencia ficción revolucionaria que desafía la realidad y la percepción humana."
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
       "año": 1972,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Un clásico del cine dirigido por Francis Ford Coppola, que sigue la historia de la familia Corleone en el mundo del crimen organizado."
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
       "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
       "año": 1994,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Una emotiva historia de esperanza y redención en una prisión, basada en un relato de Stephen King."
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
       "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
       "año": 1994,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Una obra maestra de Quentin Tarantino, que entrelaza varias historias de crimen y violencia de una manera única."
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "imagen": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
       "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M",
       "año": 1999,
-      "categoria": "pelicula"
+      "categoria": "pelicula",
+      "descripcion":"Una película provocativa y subversiva que cuestiona la sociedad de consumo y la masculinidad moderna."
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/07/breaking-bad-cover.jpg?tf=1200x",
       "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
       "año": 2008,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie de culto sobre un profesor de química que se convierte en un narcotraficante, con actuaciones magistrales de Bryan Cranston y Aaron Paul."
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "imagen": "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg",
       "trailer": "https://www.youtube.com/watch?v=XWxyRG_tckY",
       "año": 2016,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie de ciencia ficción y misterio ambientada en los años 80, que sigue a un grupo de niños mientras enfrentan fuerzas sobrenaturales."
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "imagen": "https://i.3djuegos.com/juegos/17680/the_witcher__la_serie__temporada_2/fotos/ficha/the_witcher__la_serie__temporada_2-5550842.webp",
       "trailer": "https://www.youtube.com/watch?v=cSqiFMO9oa8",
       "año": 2019,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie de fantasía épica basada en la saga de libros y videojuegos, protagonizada por Henry Cavill como Geralt de Rivia."
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/00/31/00312102459456753b384e88a2b8fadb.jpg",
       "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
       "año": 2011,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie épica de fantasía y drama basada en las novelas de George R.R. Martin, que sigue las luchas por el poder en los Siete Reinos."
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/c7/e8/c7e81c4988deaa1fc0120bb0760ec550.jpg",
       "trailer": "https://www.youtube.com/watch?v=aKuFV6_1ctk",
       "año": 2019,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie de Star Wars que sigue las aventuras de un cazarrecompensas en una galaxia lejana, con un enfoque en la acción y la aventura."
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "imagen": "https://i0.wp.com/www.septimacaja.com/wp-content/uploads/The-Crown-poster.jpg?fit=800%2C1176&ssl=1",
       "trailer": "https://www.youtube.com/watch?v=J9wFgkh57-I",
       "año": 2016,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie dramática que sigue la vida de la Reina Isabel II y la historia de la monarquía británica en el siglo XX."
     },
     {
       "id": 17,
@@ -134,14 +150,16 @@
       "imagen": "https://m.media-amazon.com/images/M/MV5BMGRjZDBjODMtMWQ1Zi00MWRkLTk5YTMtMDU1NTNkMzhkM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "trailer": "https://www.youtube.com/watch?v=4Y5TgVvQwb8",
       "año": 2011,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie de ciencia ficción y distopía que explora los impactos de la tecnología en la sociedad y la psicología humana."
     },
     {
       "id": 18,
       "titulo": "Narcos",
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_956545-MLU74080207592_012024-O.webp",
       "año": 2015,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie basada en la vida de Pablo Escobar y el auge del narcotráfico en Colombia, con un enfoque en la acción y el drama."
     },
     {
       "id": 19,
@@ -149,7 +167,8 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_797677-MLM53925781047_022023-O.webp",
       "trailer": "https://www.youtube.com/watch?v=XYvX9vlY6As",
       "año": 2017,
-      "categoria": "serie"
+      "categoria": "serie",
+      "descripcion":"Una serie de crimen y suspenso que sigue a agentes del FBI mientras investigan y entrevistan a asesinos en serie para entender su psicología."
     }
   ]
 }
